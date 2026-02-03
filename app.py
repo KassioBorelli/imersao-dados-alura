@@ -1,3 +1,4 @@
+import imghdr as img
 import altair as alt
 import streamlit as st
 import pandas as pd
@@ -139,5 +140,6 @@ st.subheader("Dados Detalhados")
 st.dataframe(df_filtrado)
 
      
+
 
 
