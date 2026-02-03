@@ -1,5 +1,7 @@
 pandas
+altair<5
 streamlit
 plotly
-altair==5
+
+
 
