@@ -1,7 +1,9 @@
 pandas
 altair<5
+imghdr
 streamlit
 plotly
+
 
 
 
